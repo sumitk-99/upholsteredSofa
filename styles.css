@@ -1,0 +1,139 @@
+body {
+  background-color: #F8F8F8;
+}
+
+.container-fluid {
+  padding-left: 10%;
+}
+
+.leftpart {
+  padding-top: 3%;
+}
+
+.carousel-inner {
+  width: 94%;
+}
+
+.carousel-image {
+  width: 550px;
+  height: 450px;
+  object-fit: cover;
+}
+
+.nav-right {
+  padding-right: 65px;
+}
+
+.rightpart {
+  padding-top: 4%;
+  padding-left: 1.5%;
+  padding-right: 10%;
+}
+
+h1 {
+  font-family: 'Abril Fatface';
+  padding-bottom: 3%;
+}
+
+h3 {
+  padding-top: 3%;
+  padding-bottom: 6%;
+  font-family: 'Varela Round', sans-serif;
+}
+
+h5 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+h6 {
+  padding-bottom: 3%;
+}
+
+.para {
+  font-size: 0.9rem;
+  padding-bottom: 3%;
+}
+
+.star, .number {
+  color: #16c79a;
+}
+
+.review {
+  font-size: 13.5px;
+  line-height: 2.3;
+}
+
+.submit-text {
+  font-size: 12px;
+  padding-bottom: 1.5px;
+  border-bottom: 1.8px solid #000000;
+}
+
+.submit-review {
+  color: #252525;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.submit-review:hover {
+  color: #000000;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.dispatch {
+  font-size: 13.5px;
+}
+
+.clock {
+  margin-right: 8px;
+}
+
+.carousel-small {
+  width: 95px;
+  height: 80px;
+}
+
+.image-container {
+  margin-right: 11.3px;
+  margin-top: 0.4%;
+  margin-bottom: 2%;
+}
+
+.last-image {
+  margin-right: 62px;
+}
+
+.buy-button {
+  font-size: 15px;
+  padding: 5% 0;
+  border-radius: 0;
+  font-weight: bold;
+}
+
+.cart-button {
+  margin-right: -20px;
+  margin-bottom: 2%;
+}
+
+footer {
+  margin: 80px 0;
+}
+
+.feature-box {
+  margin-right: 55px;
+}
+
+.icon {
+  width: 18%;
+  height: 7%;
+  padding-right: 6%;
+}
+
+.feature {
+  padding-left: 50px;
+  line-height: 1.5;
+  font-size: 14px;
+}
